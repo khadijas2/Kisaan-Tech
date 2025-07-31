@@ -1,0 +1,279 @@
+city,lat,lng,country
+Karachi,24.86,67.01,Pakistan
+Lahore,31.5497,74.3436,Pakistan
+Kotla Qasim Khan,32.5833,73.75,Pakistan
+Faisalabad,31.4167,73.0911,Pakistan
+Rawalpindi,33.6,73.0333,Pakistan
+Gujranwala,32.1567,74.19,Pakistan
+Peshawar,34.0144,71.5675,Pakistan
+Multan,30.1978,71.4697,Pakistan
+Hyderabad City,25.3792,68.3683,Pakistan
+Islamabad,33.6931,73.0639,Pakistan
+Quetta,30.1833,67.0,Pakistan
+Kumila,35.25,73.5,Pakistan
+Bahawalpur,29.3956,71.6836,Pakistan
+Parachinar,33.9,70.1,Pakistan
+Sargodha,32.0836,72.6711,Pakistan
+Sialkot City,32.4925,74.5311,Pakistan
+Sukkur,27.7061,68.8483,Pakistan
+Pindi Bhattian,31.8958,73.2761,Pakistan
+Larkana,27.5583,68.2111,Pakistan
+Chiniot,31.7194,72.9842,Pakistan
+Shekhupura,31.7111,73.9878,Pakistan
+Shah Latif Town,24.8806,67.1625,Pakistan
+Sanghar,26.0442,68.9536,Pakistan
+Rahimyar Khan,28.42,70.3,Pakistan
+Jhang City,31.2694,72.3161,Pakistan
+Dera Ghazi Khan,30.0331,70.64,Pakistan
+Gujrat,32.5739,74.0789,Pakistan
+Cantonment,31.5167,74.3833,Pakistan
+Bhawana,31.5661,72.6461,Pakistan
+Malakwal,32.5531,73.2067,Pakistan
+Mardan,34.2012,72.0258,Pakistan
+Thari Mir Wah,27.0683,68.6023,Pakistan
+Khipro,25.823,69.377,Pakistan
+Chak Jhumra,31.5667,73.1833,Pakistan
+Hafizabad,32.0714,73.6878,Pakistan
+Kasur,31.1167,74.45,Pakistan
+Khairpur Tamewah,29.58,72.2328,Pakistan
+Chakwal,32.9303,72.8556,Pakistan
+Khanewal,30.3,71.9333,Pakistan
+Marot,28.51,71.5,Pakistan
+Mingaora,34.7717,72.36,Pakistan
+Mehrabpur,27.0994,68.4208,Pakistan
+Turbat,26.0042,63.0606,Pakistan
+Khwazakhela,34.9333,72.4667,Pakistan
+Nawabshah,26.2442,68.41,Pakistan
+Skardu,35.2903,75.6444,Pakistan
+Kotri,25.374,68.3013,Pakistan
+Sahiwal,30.6611,73.1083,Pakistan
+Mirpur Khas,25.525,69.0158,Pakistan
+Okara,30.8092,73.4536,Pakistan
+Thatta,24.7461,67.9244,Pakistan
+Chilas,35.4194,74.0944,Pakistan
+Mirpur Bhtoro,24.73,68.25,Pakistan
+Mandi Burewala,30.1592,72.6817,Pakistan
+Jacobabad,28.2769,68.4514,Pakistan
+Jhelum,32.9425,73.7256,Pakistan
+Saddiqabad,28.3006,70.1302,Pakistan
+Kuchlagh,31.0833,67.1056,Pakistan
+Khapalu,35.1667,76.3333,Pakistan
+Talhar,24.8833,68.8167,Pakistan
+Kohat,33.5833,71.4333,Pakistan
+Muridke,31.802,74.255,Pakistan
+Muzaffargarh,30.0694,71.1942,Pakistan
+Ziarat,30.381,67.727,Pakistan
+Khanpur,28.65,70.68,Pakistan
+Gojra,31.15,72.6833,Pakistan
+Panjgur,26.9683,64.1014,Pakistan
+Mandi Bahauddin,32.5797,73.4814,Pakistan
+Eminabad,32.0422,74.26,Pakistan
+Jaranwala,31.3333,73.4167,Pakistan
+Abbottabad,34.1558,73.2194,Pakistan
+Dadu,26.7325,67.7792,Pakistan
+Khairpur Mir’s,27.5333,68.7667,Pakistan
+Lodhran,29.5333,71.6333,Pakistan
+Bahawalnagar,29.9928,73.2536,Pakistan
+Khuzdar,27.8,66.6167,Pakistan
+Pakpattan,30.3442,73.3839,Pakistan
+Taxila,33.7458,72.7875,Pakistan
+Zafarwal,32.35,74.9,Pakistan
+Tando Allahyar,25.4617,68.7167,Pakistan
+Sarhari,26.1,68.4833,Pakistan
+Ahmadpur East,29.1439,71.2592,Pakistan
+Wazirabad,32.4353,74.1142,Pakistan
+Vihari,30.0419,72.3528,Pakistan
+New Mirpur,33.15,73.7333,Pakistan
+Kamalia,30.7333,72.65,Pakistan
+Kot Addu,30.4664,70.9656,Pakistan
+Ghotki,28.1,69.19,Pakistan
+Nowshera,34.0153,71.9747,Pakistan
+Badin,24.6572,68.8406,Pakistan
+Swabi,34.1202,72.4702,Pakistan
+Tando Muhammad Khan,25.1239,68.5389,Pakistan
+Shahdadpur,25.9228,68.6206,Pakistan
+Jauharabad,32.2919,72.2736,Pakistan
+Goth Tando Sumro,25.45,68.7167,Pakistan
+Khushab,32.2986,72.3508,Pakistan
+Dera Ismail Khan,31.8314,70.9019,Pakistan
+Bagu Na Mohra,33.22,73.21,Pakistan
+Chaman,30.9222,66.4447,Pakistan
+Pishin,30.5848,66.9948,Pakistan
+Charsadda,34.15,71.7333,Pakistan
+Kandhkot,28.244,69.181,Pakistan
+Gujar Khan,33.253,73.304,Pakistan
+Bahrain,35.2075,72.5456,Pakistan
+Kot Radha Kishan,31.1725,74.0997,Pakistan
+Chishtian,29.8,72.8333,Pakistan
+Renala Khurd,30.8833,73.6,Pakistan
+Hasilpur,29.6917,72.5453,Pakistan
+Uch Sharif,29.2333,71.0667,Pakistan
+Kambar,27.9833,68.65,Pakistan
+Attock Khurd,33.7667,72.3667,Pakistan
+Harnai,30.1,67.9378,Pakistan
+Muzaffarabad,34.3583,73.4722,Pakistan
+Arifwala,30.2981,73.0561,Pakistan
+Mianwali,32.5853,71.5436,Pakistan
+Shabqadar,34.2054,71.5833,Pakistan
+Nasatta,34.1022,71.7964,Pakistan
+Jalalpur Jattan,32.6419,74.2033,Pakistan
+Bhakkar,31.6278,71.0625,Pakistan
+Chauk Azam,30.9648,71.217,Pakistan
+Dipalpur,30.6708,73.6533,Pakistan
+Kharian,32.8108,73.8647,Pakistan
+Wadala Sandhuan,32.1833,74.4,Pakistan
+Mian Channun,30.45,72.3667,Pakistan
+Bhalwal,32.2656,72.8994,Pakistan
+Ratodero,27.8,68.2833,Pakistan
+Dera Allahyar,28.4167,68.1667,Pakistan
+Kharan,28.5833,65.4167,Pakistan
+Kathri,26.4583,68.3192,Pakistan
+Jamshoro,25.4244,68.2811,Pakistan
+Khewra,32.65,73.0167,Pakistan
+Dinga,32.641,73.7243,Pakistan
+Pattoki,31.0167,73.85,Pakistan
+Harunabad,29.6097,73.1378,Pakistan
+Usta Muhammad,28.1783,68.0431,Pakistan
+Kahror Pakka,29.6236,71.9167,Pakistan
+Toba Tek Singh,30.9711,72.4825,Pakistan
+Sehwan,26.4193,67.8594,Pakistan
+Mirpur Mathelo,28.0167,69.5333,Pakistan
+Kahan,29.2982,68.9023,Pakistan
+Sarai Alamgir,32.9,73.75,Pakistan
+Samundri,31.0625,72.9542,Pakistan
+Bat Khela,34.62,71.97,Pakistan
+Shakargarh,32.2628,75.1583,Pakistan
+Sakrand,26.1381,68.2731,Pakistan
+Sambrial,32.16,74.4,Pakistan
+Hala,25.81,68.43,Pakistan
+Gwadar,25.1264,62.3225,Pakistan
+Shujaabad,29.8792,71.3028,Pakistan
+Hujra Shah Muqim,30.7333,73.8167,Pakistan
+Kabirwala,30.2,70.43,Pakistan
+Talamba,30.5255,72.2398,Pakistan
+Rohri,27.6831,68.9,Pakistan
+Mansehra,34.3339,73.2014,Pakistan
+Lala Musa,32.7003,73.9578,Pakistan
+Saidu Sharif,34.75,72.3572,Pakistan
+Chunian,31.0167,73.85,Pakistan
+Talagang,32.9278,72.4111,Pakistan
+Kashmor,28.26,69.35,Pakistan
+Nankana Sahib,31.45,73.7067,Pakistan
+Phalia,32.4328,73.5778,Pakistan
+Bannu,32.9864,70.6044,Pakistan
+Faruka,31.8853,72.4153,Pakistan
+Pasrur,32.2637,74.6628,Pakistan
+Timargara,34.8278,71.8417,Pakistan
+Dina,33.0283,73.6011,Pakistan
+Rangewala,30.8222,74.2611,Pakistan
+Chenab Nagar,31.7528,72.9222,Pakistan
+Hadali,32.2922,72.1922,Pakistan
+Pabbi,34.01,71.7975,Pakistan
+Lalian,31.8253,72.8027,Pakistan
+Liaquatpur,28.9353,70.9508,Pakistan
+Matta,35.0931,72.3097,Pakistan
+Abdul Hakim,30.55,72.1328,Pakistan
+Kot Mumin,32.1883,73.0286,Pakistan
+Hassan Abdal,33.8195,72.689,Pakistan
+Chak Thirty-six North Branch,32.1261,72.7297,Pakistan
+Rukan,32.4236,73.2722,Pakistan
+Buni,36.2728,72.2597,Pakistan
+Chak Sixty-one Gugera Branch,31.5875,73.6897,Pakistan
+Chitral,35.8461,71.7858,Pakistan
+Haripur,33.9942,72.9333,Pakistan
+Nushki,29.5556,66.0217,Pakistan
+Zhob,31.3417,69.4486,Pakistan
+Badrashni,33.9886,72.025,Pakistan
+Kanganpur,30.9489,73.7433,Pakistan
+Tank,32.13,70.23,Pakistan
+Mach,29.8669,67.3264,Pakistan
+Kandiaro,27.0581,68.2078,Pakistan
+Sukheke Mandi,31.8833,73.4667,Pakistan
+Washuk,27.7231,64.8122,Pakistan
+Jalalpur Bhattian,32.0644,73.377,Pakistan
+Safdarabad,31.7167,73.5667,Pakistan
+Safdarabad,31.7256,73.5771,Pakistan
+Jalalabad,35.88,74.493,Pakistan
+Choa Saidan Shah,32.7167,72.9833,Pakistan
+Ranipur,27.2889,68.5044,Pakistan
+Hangu,33.5333,71.0667,Pakistan
+Charbagh,34.8333,72.4417,Pakistan
+Kalu Khan,34.2167,72.3,Pakistan
+Sujawal,24.6031,68.0792,Pakistan
+Naushahro Firoz,26.85,68.1333,Pakistan
+Sillanwali,31.825,72.5389,Pakistan
+Allahabad,28.9333,70.9667,Pakistan
+Uthal,25.8,66.6167,Pakistan
+Risalpur Cantonment,34.0811,71.9725,Pakistan
+Bandhi,26.5833,68.3,Pakistan
+Surab,28.4925,66.2597,Pakistan
+Karak,33.1167,71.1,Pakistan
+Nawan Shahr,34.1642,73.2639,Pakistan
+Kundian,32.4522,71.4718,Pakistan
+Umarkot,25.3631,69.7425,Pakistan
+Chakdarra,34.65,72.0333,Pakistan
+Pasni,25.2652,63.4698,Pakistan
+Sadda,33.7056,70.3292,Pakistan
+Landi Kotal,34.1053,71.1553,Pakistan
+Bagh,33.9735,73.7918,Pakistan
+Ghuenke,32.4244,74.4603,Pakistan
+Thal,33.3644,70.5478,Pakistan
+Chak Five Hundred Seventy-five,31.55,73.8333,Pakistan
+Masho Khel,33.9103,71.5025,Pakistan
+Dulmial,32.7333,72.9167,Pakistan
+Malak Abad,34.8,71.8,Pakistan
+Makhdum Rashid,30.0,5.0,Pakistan
+Pind Dadan Khan,32.5883,73.0447,Pakistan
+Johi,26.6921,67.6133,Pakistan
+Hajira,33.7717,73.8961,Pakistan
+Ayun,35.7225,71.7669,Pakistan
+Sabaur,32.8031,74.0614,Pakistan
+Bhimbar,32.9747,74.0731,Pakistan
+Atharan Hazari,31.1671,72.0898,Pakistan
+Batgram,34.6833,73.0167,Pakistan
+Arandu,35.3103,71.5486,Pakistan
+Jaglot,35.685,74.6239,Pakistan
+Wahga,31.6047,74.5731,Pakistan
+Dainyor,35.9194,74.3889,Pakistan
+Kulachi,31.9286,70.4592,Pakistan
+Qazi Ahmad,26.4083,68.1564,Pakistan
+Kalat,29.03,66.589,Pakistan
+Idak,32.9741,70.1988,Pakistan
+Phularwan,32.1883,73.0286,Pakistan
+Kotli,33.5156,73.9019,Pakistan
+Doaba,33.5333,70.7333,Pakistan
+Murree,33.9042,73.3903,Pakistan
+Akora,34.0006,72.1217,Pakistan
+Bela,26.2267,66.3113,Pakistan
+Mithi,24.74,69.8,Pakistan
+Gahi Mammar,29.7375,71.9575,Pakistan
+Tamman,33.6772,72.8558,Pakistan
+Roulia,32.7972,74.0639,Pakistan
+Gadani,25.1194,66.7319,Pakistan
+Dadhar,29.47,67.65,Pakistan
+Haji Shah,33.75,72.4,Pakistan
+Baltit,36.333,74.666,Pakistan
+Dhanot,29.5333,71.6333,Pakistan
+Mian Sahib,28.1559,68.6397,Pakistan
+Awan Patti,34.25,73.66,Pakistan
+Sangota,34.7833,72.4167,Pakistan
+Ghora Gali,33.8833,73.3833,Pakistan
+Mankera,31.3833,71.4333,Pakistan
+Shergarh,30.8281,73.7383,Pakistan
+Sultanpur Mor,32.1883,73.0286,Pakistan
+Nurkot,32.2017,75.1186,Pakistan
+Abdul Khel,32.3997,70.9136,Pakistan
+Saidpur,33.7421,73.0677,Pakistan
+Hattian Bala,34.1691,73.7432,Pakistan
+Firoza,28.75,70.8167,Pakistan
+Miro Khan,27.7597,68.0917,Pakistan
+Gakuch,36.1736,73.7667,Pakistan
+Haider Khel,32.9449,70.296,Pakistan
+Surmon Chogga Grong,35.1518,76.4454,Pakistan
+Basla,33.3833,73.3167,Pakistan
+Bunji,35.6422,74.6336,Pakistan
+Ghota Fatehgarh,32.09,74.78,Pakistan
+Jandola,32.3317,70.1228,Pakistan
+Gilgit,35.9208,74.3083,Pakistan
+Drazinda,31.7069,70.1352,Pakistan
+Chak Thathi,30.3701,73.2215,Pakistan
